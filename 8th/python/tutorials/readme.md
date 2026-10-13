@@ -19,6 +19,8 @@ Use the links below to jump straight to the code files for each topic:
 
 ---
 
+**Note:** A lot of the print statements have "/n"("---" is just decorational), it means a new line(basically will skip a line and then print the statement after it.)
+
 ## 🛠️ How to Study with These Files
 
 1. **Read the Comments:** Each file contains detailed inline comments explaining *why* the code works the way it does.
