@@ -15,7 +15,8 @@ Use the links below to jump straight to the code files for each topic:
 | 📄 [`03_control_flow.py`](./03_control_flow.py) | Conditional logic and decision-making structures. | `if`, `elif`, `else` blocks & proper indentation |
 | 📄 [`04_loops.py`](./04_loops.py) | Iteration examples including counts, accumulators, and break/continue statements. | `for` loops, `while` loops, `range(start, stop, step)` |
 | 📄 [`05_functions.py`](./05_functions.py) | Reusable code blocks, parameter passing, and return values. | `def` keyword, arguments, `return` vs `print()` |
-| 📄 [`06_practice_questions.py`](./06_practice_questions.py) | Solved exam-style coding questions and output tracing problems. | Problem-solving & common exam code snippets |
+| 📄 [`06_lists.py`](./06_lists.py) | Compound data structures, element indexing, mutation, and dictionaries. | Lists, slicing, methods (`append()`, `pop()`), and key-value dicts |
+| 📄 [`07_practice_questions.py`](./07_practice_questions.py) | Solved exam-style coding questions and output tracing problems. | Problem-solving & common exam code snippets |
 
 ---
 
