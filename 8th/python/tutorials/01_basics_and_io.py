@@ -25,7 +25,7 @@ student_name = "Alex"  # A string variable (text)
 exam_score = 95        # An integer variable (whole number)
 is_passed = True       # A boolean variable (True or False)
 
-print("\n--- Student Info ---")
+print("Student Info")
 print("Name:", student_name)
 print("Score:", exam_score)
 print("Passed:", is_passed)
@@ -41,7 +41,7 @@ percentage = 92.5      # float (decimal number)
 subject = "Computer Science"  # str (string)
 passed_exam = True     # bool (boolean)
 
-print("\n--- Data Types Check ---")
+print("Data Types Check")
 print(type(age))         # Output: <class 'int'>
 print(type(percentage))  # Output: <class 'float'>
 print(type(subject))     # Output: <class 'str'>
@@ -54,7 +54,7 @@ print(type(passed_exam)) # Output: <class 'bool'>
 # The input() function pauses the program and lets the user type something.
 # ⚠️ EXAM WATCHOUT: input() ALWAYS returns data as a STRING, even if you type a number!
 
-print("\n--- User Input Demo ---")
+print(" User Input Demo ")
 user_name = input("Enter your name: ")
 print("Hello, " + user_name + "! Let's check your math skills.")
 
