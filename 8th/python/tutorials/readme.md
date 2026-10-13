@@ -27,6 +27,4 @@ Use the links below to jump straight to the code files for each topic:
 
 ---
 
-💡 *Tip: Keep an eye out for the **"Exam Watchout"** callouts inside the code comments for common traps to avoid on test day.*
-
 **Note:** Most of codes have been made by AI, and there will be code written by me, this was done to reduce time taken to make this pull request.
